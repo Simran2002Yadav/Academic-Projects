@@ -2,7 +2,7 @@
 # SQL:
 This project features a comprehensive database designed to manage and analyze various aspects of the Indian Premier League (IPL) using SQL queries on a MySQL database.
 
-# Database Structure:
+# Database Structure
 
 Teams Table: Stores essential team details, including TeamID, TeamName, and OwnerName.
 
@@ -12,7 +12,7 @@ Matches Table: Records match details, including MatchID, MatchType, Date, Stadiu
 
 IPL Table: Tracks tournament specifics, including Year, Title Sponsor, Player of the Tournament, and Winner, with a foreign key referencing the Players table.
 
-#Key Features:
+# Key Features
 
 The project includes:
 
